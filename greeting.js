@@ -7,6 +7,7 @@ const USER_LS = "currentUser",
 
 function askForName () {
     form.classList.add(SHOWING_CN);
+    form.addEventListner
 }
 
 
