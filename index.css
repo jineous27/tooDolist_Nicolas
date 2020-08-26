@@ -7,6 +7,16 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.btn {
+    cursor: pointer;
+}
+body {
+    color: #34495e;
+}
+
+
+
+
 .form,
 .greetings {
     display: none;
