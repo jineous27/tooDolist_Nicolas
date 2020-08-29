@@ -1,3 +1,4 @@
+const API_KEY = "7807dd64edffb8f0c3d1f9aab68f3a1d";
 const COORDS = 'coords';
 
 
