@@ -1,9 +1,10 @@
 h1 {
     color: #44C1C1;
-    font-size: 50px;
-    margin-left: 5rem;
-    margin-top: 5rem;
+    font-size: 100px;
+    margin-left: 20rem;
+    margin-top: 10rem;
     cursor: pointer;
+    text-decoration: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -24,7 +25,9 @@ body {
 .form,
 .greetings {
     display: none;
-    margin-left: 7rem;
+    font-size: 30px;
+    margin-left: 30rem;
+    text-decoration: underline;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
